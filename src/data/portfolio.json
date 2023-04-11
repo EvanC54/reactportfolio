@@ -1,0 +1,24 @@
+{
+    "portfolio": [
+        {
+            "cover"         : "/portfolio/one.png",
+            "title"         : "2020 Personal Website",
+            "description"   : "React, JSX, Tailwind, Jest",
+            "url"           : "https://evancummings.netlify.app"
+        },
+        
+        {
+            "cover"         : "/portfolio/three.png",
+            "title"         : "Previous Business Website",
+            "description"   : "React, JSX, Tailwind, Jest",
+            "url"           : "https://chemtechpro.com"
+        },
+
+        {
+            "cover"         : "/portfolio/two.png",
+            "title"         : "2018 Wesbite",
+            "description"   : "React, JSX, Tailwind, Jest",
+            "url"           : "https://ustorelaporte.netlify.app"
+        }
+    ]
+}
