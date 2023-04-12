@@ -1,12 +1,5 @@
 import { useEffect, useState } from 'react'
-import {
-  faAngular,
-  faCss3,
-  faGitAlt,
-  faHtml5,
-  faJsSquare,
-  faReact,
-} from '@fortawesome/free-brands-svg-icons'
+import { faAngular, faCss3, faGithub, faHtml5, faNodeJs, faReact,} from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -34,17 +27,16 @@ const About = () => {
           </h1>
           <p>
             I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
+            established company with the opportunity to work with the latest
             technologies on challenging and diverse projects.
           </p>
           <p align                      = "LEFT">
-            I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            I'm quite confident, naturally interested, and 
+            constantly aiming to improve not only my skills but myself one problem at a time.
           </p>
           <p>
             If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+            person, stock market addict, musician, sports enthusiast, and tech-obsessed!!!
           </p>
         </div>
 
@@ -63,15 +55,15 @@ const About = () => {
               <FontAwesomeIcon icon     = {faReact} color="#5ED4F4" />
             </div>
             <div className              = "face5">
-              <FontAwesomeIcon icon     = {faJsSquare} color="#EFD81D" />
+              <FontAwesomeIcon icon     = {faNodeJs} color="#EFD81D" />
             </div>
             <div className              = "face6">
-              <FontAwesomeIcon icon     = {faGitAlt} color="#EC4D28" />
+              <FontAwesomeIcon icon     = {faGithub} color="#EC4D28" />
             </div>
           </div>
         </div>
       </div>
-      <Loader type                      = "pacman" />
+      <Loader type                      = "ball-scale-ripple-multiple" />
     </>
   )
 }

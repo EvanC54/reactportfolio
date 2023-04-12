@@ -3,7 +3,7 @@
         {
             "cover"         : "/portfolio/one.png",
             "title"         : "2020 Personal Website",
-            "description"   : "React, JSX, Tailwind, Jest",
+            "description"   : "HTML5, CSS, PHP",
             "url"           : "https://evancummings.netlify.app"
         },
         
@@ -12,6 +12,13 @@
             "title"         : "Previous Business Website",
             "description"   : "React, JSX, Tailwind, Jest",
             "url"           : "https://chemtechpro.com"
+        },
+
+        {
+            "cover"         : "/portfolio/four.png",
+            "title"         : "React Calculator",
+            "description"   : "React, JS, CSS, HTML",
+            "url"           : "https://ustorelaporte.netlify.app"
         },
 
         {

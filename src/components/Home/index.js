@@ -40,7 +40,7 @@ const Home = () => {
                 <Link to                        = '/contact' className='flat-button'> CONTACT ME </Link>
             </div>
         </div>
-        <Loader type                            = "pacman" />
+        <Loader type                            = "ball-scale-ripple-multiple" />
         </>
     );
 }
