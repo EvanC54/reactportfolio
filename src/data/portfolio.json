@@ -3,28 +3,28 @@
         {
             "cover"         : "/portfolio/one.png",
             "title"         : "2020 Personal Website",
-            "description"   : "HTML5, CSS, PHP",
+            "description"   : "A test website made in late 2021 using primarily HTML, CSS, PHP, and JS.",
             "url"           : "https://evancummings.netlify.app"
         },
         
         {
             "cover"         : "/portfolio/three.png",
             "title"         : "Previous Business Website",
-            "description"   : "React, JSX, Tailwind, Jest",
+            "description"   : "A website designed for one of my businesses started with a partner in early 2022.",
             "url"           : "https://chemtechpro.com"
         },
 
         {
             "cover"         : "/portfolio/four.png",
             "title"         : "React Calculator",
-            "description"   : "React, JS, CSS, HTML",
-            "url"           : "https://ustorelaporte.netlify.app"
+            "description"   : "A simple react calculator that can do any type of calculation.",
+            "url"           : "https://evanreactcalc.netlify.app"
         },
 
         {
             "cover"         : "/portfolio/two.png",
             "title"         : "2018 Wesbite",
-            "description"   : "React, JSX, Tailwind, Jest",
+            "description"   : "A website created in early 2021 for a facility a friend owned.",
             "url"           : "https://ustorelaporte.netlify.app"
         }
     ]
