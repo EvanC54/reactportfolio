@@ -10,22 +10,29 @@
         {
             "cover"         : "/portfolio/three.png",
             "title"         : "Previous Business Website",
-            "description"   : "A website designed for one of my businesses started with a partner in early 2022.",
+            "description"   : "A website designed for one of my businesses ventures.",
             "url"           : "https://chemtechpro.com"
         },
 
         {
             "cover"         : "/portfolio/four.png",
             "title"         : "React Calculator",
-            "description"   : "A simple react calculator that can do any type of calculation.",
+            "description"   : "React calculator.",
             "url"           : "https://evanreactcalc.netlify.app"
         },
 
         {
             "cover"         : "/portfolio/two.png",
             "title"         : "2018 Wesbite",
-            "description"   : "A website created in early 2021 for a facility a friend owned.",
+            "description"   : "A website created in early 2021 as a side project.",
             "url"           : "https://ustorelaporte.netlify.app"
+        },
+
+        {
+            "cover"         : "/portfolio/snake.png",
+            "title"         : "Java Snake Game",
+            "description"   : "This classic arcade game is implemented in Java, where the player controls a snake that moves around the screen, eats apples to grow, and aims to achieve the highest score possible.",
+            "url"           : "https://evanc54.github.io/Java-Snake-Game-/"
         }
     ]
 }
