@@ -33,6 +33,13 @@
             "title"         : "Java Snake Game",
             "description"   : "This classic arcade game is implemented in Java, where the player controls a snake that moves around the screen, eats apples to grow, and aims to achieve the highest score possible.",
             "url"           : "https://evanc54.github.io/Java-Snake-Game-/"
+        },
+
+        {
+            "cover"         : "/portfolio/gamba.png",
+            "title"         : "Javascript Slot Machine",
+            "description"   : "The game follows a set of rules and logic to simulate the experience of playing a slot machine. Players can deposit money, choose the number of lines to bet on, set a bet amount per line, spin the slot machine, and check if they win.",
+            "url"           : "https://evanc54.github.io/GamblingJS/"
         }
     ]
 }
