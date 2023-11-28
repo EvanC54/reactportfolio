@@ -21,7 +21,7 @@ const Home = () => {
     return (
         <>
         <div className                          = "container home-page">
-            <div className                      = 'pfp'> <img src={pfp}alt='me' /> </div>
+            <div className                      = 'pfp'> <img src={pfp}alt='me' /></div>
             <div className                      = "text-zone">
                 <h1>
                 <span className                 = {letterClass}> H</span>
