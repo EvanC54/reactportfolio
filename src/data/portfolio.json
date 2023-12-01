@@ -40,6 +40,13 @@
             "title"         : "Javascript Slot Machine",
             "description"   : "The game follows a set of rules and logic to simulate the experience of playing a slot machine. Players can deposit money, choose the number of lines to bet on, set a bet amount per line, spin the slot machine, and check if they win.",
             "url"           : "https://evanc54.github.io/GamblingJS/"
+        },
+
+        {
+            "cover"         : "/portfolio/login.png",
+            "title"         : "Java Login System",
+            "description"   : "Java Swing login application with user authentication.",
+            "url"           : "https://evanc54.github.io/LoginSystem/"
         }
     ]
 }
