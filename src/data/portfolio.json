@@ -3,7 +3,7 @@
         {
             "cover"         : "/portfolio/one.png",
             "title"         : "2020 Personal Website",
-            "description"   : "A test website made in late 2021 using primarily HTML, CSS, PHP, and JS.",
+            "description"   : "A personal test website made in late 2021 as sort of a portfolio project.",
             "url"           : "https://evancummings.netlify.app"
         },
         
@@ -23,8 +23,8 @@
 
         {
             "cover"         : "/portfolio/two.png",
-            "title"         : "2018 Wesbite",
-            "description"   : "A website created in early 2021 as a side project.",
+            "title"         : "Self Storage Wesbite",
+            "description"   : "A website created in early 2021 for a entrepreneurship class.",
             "url"           : "https://ustorelaporte.netlify.app"
         }, 
 
